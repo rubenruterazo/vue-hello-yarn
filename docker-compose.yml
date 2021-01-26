@@ -1,7 +1,7 @@
 version: "3.0"
 services: 
   web:
-    image: vue-hello
+    image: vue-hello2
     build:
       context: .
       dockerfile: Dockerfile
